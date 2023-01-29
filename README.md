@@ -1,4 +1,6 @@
-# Cointelegraph full website scraper
+# Cointelegraph full website scraper 
+
+https://github.com/OksanaBash/cointelegraph-scraper-all
 
 Are you cryptocurrencies enthusiast? 
 Are you interested in NLP and looking for a real-world news database? 
